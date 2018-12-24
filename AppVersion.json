@@ -1,7 +1,7 @@
 {
-  "isUpdate":true,
+  "isUpdate":false,
   "titlemsg":"New Version Available",
   "discriptionmsg":"Please,update Game to new version",
   "updateUrl":"https://play.google.com/store/apps/details?id=com.adityapromotions.worddetective",
-  "version": 1.7
+  "version": 1.6
 }
